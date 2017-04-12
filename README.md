@@ -1,6 +1,6 @@
 # DSP Dump
 
-![DSP Dump](https://github.com/Cruel/DspDump/raw/master/icon.png "DSP Dump")
+![DSP Dump](https://github.com/KevinX8/DspDump/raw/master/icon.png "DSP Dump")
 
 This is a simple 3DS utility app to dump the DSP binary component needed for audio output in many 3DS homebrew applications.
 
